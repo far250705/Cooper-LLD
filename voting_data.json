@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "name": "Farheen",
+      "party": "jpg",
+      "description": "good party"
+    }
+  ],
+  "voters": [
+    {
+      "id": "23456",
+      "name": "FARHEEN",
+      "password": "FARHE",
+      "has_voted": true
+    }
+  ],
+  "votes": {
+    "Farheen": 1
+  },
+  "election_active": true,
+  "results_declared": false
+}
